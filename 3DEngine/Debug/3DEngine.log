@@ -1,0 +1,4 @@
+﻿  3DEngine.cpp
+c:\users\indra mahkota\desktop\3dengine\3dengine\3dengine.cpp(790): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\indra mahkota\desktop\3dengine\3dengine\3dengine.cpp(407): warning C4715: 'olcEngine3D::Triangle_ClipAgainstPlane': not all control paths return a value
+  3DEngine.vcxproj -> C:\Users\Indra Mahkota\Desktop\3DEngine\Debug\3DEngine.exe
